@@ -33,8 +33,8 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hussainwajda&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainwajda&theme=radical" alt="streak" height="165"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hussainwajda)](https://git.io/streak-stats)
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainwajda&theme=radical" alt="streak" height="165"/> -->
+  <img src="https://streak-stats.demolab.com/?user=hussainwajda" alt="streak" height="165" />
 </p>
 
 <p align="center">

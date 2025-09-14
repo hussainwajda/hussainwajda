@@ -61,7 +61,7 @@
 ---
 
 ### ✨ Quote I Believe In
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “Either you run the day or the day runs you.” —Jim Rohn
 
 ---
 <p align="center">⭐️ From <a href="https://github.com/hussainwajda">Hussain Wajda</a></p>
